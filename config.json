@@ -1,0 +1,7 @@
+{
+    "driver":"C:\\Selenium\\chromedriver_win32\\chromedriver.exe",
+    "url":"https://www.facebook.com/",
+    "username":"abc@gmail.com",
+    "password":"12345678"
+
+}
